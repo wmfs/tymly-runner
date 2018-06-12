@@ -25,7 +25,7 @@
     "debug": "3.1.0",
     "lodash": "4.17.10",
     "safe-buffer": "5.1.2",
-    "tymly": "0.0.17"
+    "@wmfs/tymly": "1.0.0"
   },
   "devDependencies": {
     "chai": "4.1.2",
@@ -35,7 +35,8 @@
     "nodemon": "1.17.5",
     "nyc": "12.0.2",
     "semantic-release": "^15.5.2",
-    "standard": "11.0.1"
+    "standard": "11.0.1",
+    "@wmfs/tymly-pg-plugin": "1.0.0"
   },
   "scripts": {
     "start": "node ./lib/index.js",

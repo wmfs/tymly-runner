@@ -2,7 +2,7 @@
 
 'use strict'
 
-const tymly = require('tymly')
+const tymly = require('@wmfs/tymly')
 const path = require('path')
 const expect = require('chai').expect
 const process = require('process')
@@ -22,7 +22,7 @@ describe('Simple Tymly test', function () {
     tymly.boot(
       {
         pluginPaths: [
-          path.resolve(__dirname, './../../../plugins/tymly-pg-plugin')
+          require.resolve('@wmfs/tymly-pg-plugin')
         ],
         blueprintPaths: []
       },
