@@ -3,7 +3,6 @@
 'use strict'
 
 const tymly = require('@wmfs/tymly')
-const path = require('path')
 const expect = require('chai').expect
 const process = require('process')
 
