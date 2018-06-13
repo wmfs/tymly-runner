@@ -25,7 +25,7 @@
     "debug": "3.1.0",
     "lodash": "4.17.10",
     "safe-buffer": "5.1.2",
-    "@wmfs/tymly": "1.0.1"
+    "@wmfs/tymly": "1.0.2"
   },
   "devDependencies": {
     "chai": "4.1.2",
