@@ -40,4 +40,5 @@ $ npm run start
 ```
 
 ## <a name="license"></a>License
+
 [MIT](https://github.com/wmfs/tymly-runner/blob/master/LICENSE)
