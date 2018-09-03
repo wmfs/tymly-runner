@@ -1,3 +1,23 @@
+# [2.26.0](https://github.com/wmfs/tymly-runner/compare/v2.25.0...v2.26.0) (2018-09-03)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.17.0 to 1.17.1 ([1a24e28](https://github.com/wmfs/tymly-runner/commit/1a24e28))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement from 7.0.1 to 7.0.2 ([6f26786](https://github.com/wmfs/tymly-runner/commit/6f26786))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement from 7.0.2 to 7.0.3 ([f190213](https://github.com/wmfs/tymly-runner/commit/f190213))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement from 1.29.0 to 1.30.0 ([bbb03f4](https://github.com/wmfs/tymly-runner/commit/bbb03f4))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement from 1.30.0 to 1.31.0 ([42ffdab](https://github.com/wmfs/tymly-runner/commit/42ffdab))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement from 1.31.0 to 1.32.0 ([00ac0fc](https://github.com/wmfs/tymly-runner/commit/00ac0fc))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement from 1.32.0 to 1.33.0 ([73e2e87](https://github.com/wmfs/tymly-runner/commit/73e2e87))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement from 1.33.0 to 1.34.0 ([7967d06](https://github.com/wmfs/tymly-runner/commit/7967d06))
+* **deps-dev:** update nodemon requirement from 1.18.3 to 1.18.4 ([b68f91e](https://github.com/wmfs/tymly-runner/commit/b68f91e))
+* **deps-dev:** update nyc requirement from 12.0.2 to 13.0.1 ([5dd3370](https://github.com/wmfs/tymly-runner/commit/5dd3370))
+* **deps-dev:** update semantic-release requirement from 15.9.11 to 15.9.12 ([4ac4280](https://github.com/wmfs/tymly-runner/commit/4ac4280))
+* **deps-dev:** update semantic-release requirement from 15.9.9 to 15.9.11 ([41037b7](https://github.com/wmfs/tymly-runner/commit/41037b7))
+* **deps-dev:** update standard requirement from 11.0.1 to 12.0.0 ([4e43b45](https://github.com/wmfs/tymly-runner/commit/4e43b45))
+* **deps-dev:** update standard requirement from 12.0.0 to 12.0.1 ([9c806e9](https://github.com/wmfs/tymly-runner/commit/9c806e9))
+
 # [2.25.0](https://github.com/wmfs/tymly-runner/compare/v2.24.0...v2.25.0) (2018-08-23)
 
 
