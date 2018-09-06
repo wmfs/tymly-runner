@@ -1,3 +1,17 @@
+# [2.30.0](https://github.com/wmfs/tymly-runner/compare/v2.29.0...v2.30.0) (2018-09-06)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.21.0 to 1.22.0 ([32ed1d5](https://github.com/wmfs/tymly-runner/commit/32ed1d5))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([52ea930](https://github.com/wmfs/tymly-runner/commit/52ea930))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([ce68a0c](https://github.com/wmfs/tymly-runner/commit/ce68a0c))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([4464aa5](https://github.com/wmfs/tymly-runner/commit/4464aa5))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement from 1.36.0 to 1.37.0 ([0ff58b1](https://github.com/wmfs/tymly-runner/commit/0ff58b1))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement from 1.37.0 to 1.38.0 ([41585f5](https://github.com/wmfs/tymly-runner/commit/41585f5))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement from 1.38.0 to 1.39.0 ([bda9c13](https://github.com/wmfs/tymly-runner/commit/bda9c13))
+* **deps-dev:** update codecov requirement from 3.0.4 to 3.1.0 ([d6e0957](https://github.com/wmfs/tymly-runner/commit/d6e0957))
+
 # [2.29.0](https://github.com/wmfs/tymly-runner/compare/v2.28.0...v2.29.0) (2018-09-04)
 
 
