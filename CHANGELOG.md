@@ -1,3 +1,13 @@
+# [2.38.0](https://github.com/wmfs/tymly-runner/compare/v2.37.0...v2.38.0) (2018-09-11)
+
+
+### 🛠 Builds
+
+* **deps:** update debug requirement from 4.0.0 to 4.0.1 ([95c1d23](https://github.com/wmfs/tymly-runner/commit/95c1d23))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([9db840f](https://github.com/wmfs/tymly-runner/commit/9db840f))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([48a55ce](https://github.com/wmfs/tymly-runner/commit/48a55ce))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([77339b7](https://github.com/wmfs/tymly-runner/commit/77339b7))
+
 # [2.37.0](https://github.com/wmfs/tymly-runner/compare/v2.36.0...v2.37.0) (2018-09-11)
 
 
