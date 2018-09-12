@@ -1,3 +1,10 @@
+# [2.41.0](https://github.com/wmfs/tymly-runner/compare/v2.40.0...v2.41.0) (2018-09-12)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.10 to 4.17.11 ([5aef066](https://github.com/wmfs/tymly-runner/commit/5aef066))
+
 # [2.40.0](https://github.com/wmfs/tymly-runner/compare/v2.39.0...v2.40.0) (2018-09-12)
 
 
