@@ -1,3 +1,11 @@
+# [2.48.0](https://github.com/wmfs/tymly-runner/compare/v2.47.0...v2.48.0) (2018-09-26)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.35.0 to 1.36.0 ([9f03101](https://github.com/wmfs/tymly-runner/commit/9f03101))
+* **deps-dev:** update chai requirement from 4.1.2 to 4.2.0 ([4cfe490](https://github.com/wmfs/tymly-runner/commit/4cfe490))
+
 # [2.47.0](https://github.com/wmfs/tymly-runner/compare/v2.46.0...v2.47.0) (2018-09-26)
 
 
