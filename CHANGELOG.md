@@ -1,3 +1,10 @@
+# [2.52.0](https://github.com/wmfs/tymly-runner/compare/v2.51.0...v2.52.0) (2018-10-03)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.40.0 to 1.41.0 ([2709bc6](https://github.com/wmfs/tymly-runner/commit/2709bc6))
+
 # [2.51.0](https://github.com/wmfs/tymly-runner/compare/v2.50.0...v2.51.0) (2018-10-02)
 
 
