@@ -23,7 +23,7 @@
   "dependencies": {
     "boom": "7.2.0",
     "config": "2.0.1",
-    "debug": "4.0.1",
+    "debug": "4.1.0",
     "lodash": "4.17.11",
     "safe-buffer": "5.1.2",
     "@wmfs/tymly": "1.42.0"
