@@ -1,3 +1,13 @@
+# [2.64.0](https://github.com/wmfs/tymly-runner/compare/v2.63.0...v2.64.0) (2018-10-19)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.50.0 to 1.51.0 ([4d363d2](https://github.com/wmfs/tymly-runner/commit/4d363d2))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement ([2c38fed](https://github.com/wmfs/tymly-runner/commit/2c38fed))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([b8584eb](https://github.com/wmfs/tymly-runner/commit/b8584eb))
+* **deps-dev:** update semantic-release requirement ([298f5c4](https://github.com/wmfs/tymly-runner/commit/298f5c4))
+
 # [2.63.0](https://github.com/wmfs/tymly-runner/compare/v2.62.0...v2.63.0) (2018-10-17)
 
 
