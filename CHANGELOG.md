@@ -1,3 +1,15 @@
+# [2.74.0](https://github.com/wmfs/tymly-runner/compare/v2.73.0...v2.74.0) (2018-11-03)
+
+
+### 🛠 Builds
+
+* **deps:** update boom requirement from 7.2.1 to 7.2.2 ([2861061](https://github.com/wmfs/tymly-runner/commit/2861061))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([22b91b9](https://github.com/wmfs/tymly-runner/commit/22b91b9))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([f79fec5](https://github.com/wmfs/tymly-runner/commit/f79fec5))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([b2af1c4](https://github.com/wmfs/tymly-runner/commit/b2af1c4))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([ab17160](https://github.com/wmfs/tymly-runner/commit/ab17160))
+* **deps-dev:** update semantic-release requirement ([97886e2](https://github.com/wmfs/tymly-runner/commit/97886e2))
+
 # [2.73.0](https://github.com/wmfs/tymly-runner/compare/v2.72.0...v2.73.0) (2018-11-01)
 
 
