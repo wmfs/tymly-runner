@@ -1,3 +1,21 @@
+# [2.75.0](https://github.com/wmfs/tymly-runner/compare/v2.74.0...v2.75.0) (2018-11-12)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.58.0 to 1.59.0 ([ac75f33](https://github.com/wmfs/tymly-runner/commit/ac75f33))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([0d203c6](https://github.com/wmfs/tymly-runner/commit/0d203c6))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([f05caec](https://github.com/wmfs/tymly-runner/commit/f05caec))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([86c5125](https://github.com/wmfs/tymly-runner/commit/86c5125))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([8bdcf7d](https://github.com/wmfs/tymly-runner/commit/8bdcf7d))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([73b003c](https://github.com/wmfs/tymly-runner/commit/73b003c))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([17944cd](https://github.com/wmfs/tymly-runner/commit/17944cd))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([c85eb26](https://github.com/wmfs/tymly-runner/commit/c85eb26))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([3327297](https://github.com/wmfs/tymly-runner/commit/3327297))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([3e501ae](https://github.com/wmfs/tymly-runner/commit/3e501ae))
+* **deps-dev:** update nodemon requirement from 1.18.5 to 1.18.6 ([e108fec](https://github.com/wmfs/tymly-runner/commit/e108fec))
+* **deps-dev:** update semantic-release requirement ([d6a75a5](https://github.com/wmfs/tymly-runner/commit/d6a75a5))
+
 # [2.74.0](https://github.com/wmfs/tymly-runner/compare/v2.73.0...v2.74.0) (2018-11-03)
 
 
