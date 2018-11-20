@@ -1,3 +1,10 @@
+# [2.80.0](https://github.com/wmfs/tymly-runner/compare/v2.79.0...v2.80.0) (2018-11-20)
+
+
+### 🛠 Builds
+
+* **deps:** update config requirement from 2.0.2 to 3.0.0 ([8e62247](https://github.com/wmfs/tymly-runner/commit/8e62247))
+
 # [2.79.0](https://github.com/wmfs/tymly-runner/compare/v2.78.0...v2.79.0) (2018-11-20)
 
 
