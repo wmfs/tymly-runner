@@ -1,3 +1,11 @@
+# [2.84.0](https://github.com/wmfs/tymly-runner/compare/v2.83.0...v2.84.0) (2018-11-27)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.65.0 to 1.65.1 ([8ff7b4d](https://github.com/wmfs/tymly-runner/commit/8ff7b4d))
+* **deps-dev:** update nodemon requirement from 1.18.6 to 1.18.7 ([fdf445e](https://github.com/wmfs/tymly-runner/commit/fdf445e))
+
 # [2.83.0](https://github.com/wmfs/tymly-runner/compare/v2.82.0...v2.83.0) (2018-11-27)
 
 
