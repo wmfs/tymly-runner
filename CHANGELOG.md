@@ -1,3 +1,23 @@
+# [2.85.0](https://github.com/wmfs/tymly-runner/compare/v2.84.0...v2.85.0) (2019-01-17)
+
+
+### ✨ Features
+
+* Add env-var support to exclude plugins/blueprints from boot. ([cd3309e](https://github.com/wmfs/tymly-runner/commit/cd3309e))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([5ceef8d](https://github.com/wmfs/tymly-runner/commit/5ceef8d))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([fa13a7c](https://github.com/wmfs/tymly-runner/commit/fa13a7c))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([43c67d2](https://github.com/wmfs/tymly-runner/commit/43c67d2))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([68ae019](https://github.com/wmfs/tymly-runner/commit/68ae019))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([86b5357](https://github.com/wmfs/tymly-runner/commit/86b5357))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([48ac7b8](https://github.com/wmfs/tymly-runner/commit/48ac7b8))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([f9fa323](https://github.com/wmfs/tymly-runner/commit/f9fa323))
+* **deps-dev:** update nodemon requirement from 1.18.7 to 1.18.9 ([27ade5d](https://github.com/wmfs/tymly-runner/commit/27ade5d))
+* **deps-dev:** update semantic-release requirement ([6aedc50](https://github.com/wmfs/tymly-runner/commit/6aedc50))
+
 # [2.84.0](https://github.com/wmfs/tymly-runner/compare/v2.83.0...v2.84.0) (2018-11-27)
 
 
