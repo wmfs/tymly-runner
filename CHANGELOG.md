@@ -1,3 +1,10 @@
+## [2.85.1](https://github.com/wmfs/tymly-runner/compare/v2.85.0...v2.85.1) (2019-01-17)
+
+
+### 🐛 Bug Fixes
+
+* Re-introduces TYMLY-PLUGINS-PATH env mapping. ([c2d76d8](https://github.com/wmfs/tymly-runner/commit/c2d76d8))
+
 # [2.85.0](https://github.com/wmfs/tymly-runner/compare/v2.84.0...v2.85.0) (2019-01-17)
 
 
