@@ -1,6 +1,7 @@
 {
   "blueprintPaths": "TYMLY_BLUEPRINTS_PATH",
-  "pluginPaths": "TYMLY_PLUGINS_PATH",
+  "excludePlugins": "TYMLY_EXCLUDED_PLUGIN_NAMES",
+  "excludeBlueprints": "TYMLY_EXCLUDED_PLUGIN_NAMES",
   "config": {
     "serverPort": "TYMLY_SERVER_PORT",
     "auth": {
