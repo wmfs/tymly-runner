@@ -48,7 +48,7 @@
     "test": "nyc mocha && standard",
     "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
     "semantic-release": "semantic-release",
-    "start-nodemon": "nodemon --watch ./../../blueprints --watch ./../../../private-blueprints/blueprints -e json ./lib/index.js --legacy-watch"
+    "start-nodemon": "nodemon --watch ./../../blueprints --watch ./../../plugins ./lib/index.js --legacy-watch"
   },
   "config": {
     "commitizen": {
