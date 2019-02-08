@@ -1,3 +1,11 @@
+# [2.86.0](https://github.com/wmfs/tymly-runner/compare/v2.85.2...v2.86.0) (2019-02-08)
+
+
+### 🛠 Builds
+
+* **deps:** update boom requirement from 7.2.2 to 7.3.0 ([599c40b](https://github.com/wmfs/tymly-runner/commit/599c40b))
+* **deps:** update config requirement from 3.0.0 to 3.0.1 ([3872ae3](https://github.com/wmfs/tymly-runner/commit/3872ae3))
+
 ## [2.85.2](https://github.com/wmfs/tymly-runner/compare/v2.85.1...v2.85.2) (2019-01-29)
 
 
