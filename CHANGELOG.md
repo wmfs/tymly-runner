@@ -1,3 +1,11 @@
+# [2.87.0](https://github.com/wmfs/tymly-runner/compare/v2.86.0...v2.87.0) (2019-02-08)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/tymly ([5a49232](https://github.com/wmfs/tymly-runner/commit/5a49232))
+* **dev-deps:** Update sem-rel and friends ([32add63](https://github.com/wmfs/tymly-runner/commit/32add63))
+
 # [2.86.0](https://github.com/wmfs/tymly-runner/compare/v2.85.2...v2.86.0) (2019-02-08)
 
 
