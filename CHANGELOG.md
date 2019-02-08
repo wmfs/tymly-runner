@@ -1,3 +1,17 @@
+## [2.85.2](https://github.com/wmfs/tymly-runner/compare/v2.85.1...v2.85.2) (2019-01-29)
+
+
+### 🐛 Bug Fixes
+
+* Correct config.excludeBlueprints so it picks up the proper env variable ([7d1d572](https://github.com/wmfs/tymly-runner/commit/7d1d572))
+* Jiggle options in start-nodemon script ([7fbc65f](https://github.com/wmfs/tymly-runner/commit/7fbc65f))
+
+
+### 📚 Documentation
+
+* Fixes a typo or two. ([c21e636](https://github.com/wmfs/tymly-runner/commit/c21e636))
+* The tinniest of typos. ([9027b5b](https://github.com/wmfs/tymly-runner/commit/9027b5b))
+
 ## [2.85.1](https://github.com/wmfs/tymly-runner/compare/v2.85.0...v2.85.1) (2019-01-17)
 
 
