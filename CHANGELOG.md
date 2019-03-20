@@ -1,3 +1,10 @@
+## [2.88.1](https://github.com/wmfs/tymly-runner/compare/v2.88.0...v2.88.1) (2019-03-20)
+
+
+### 🐛 Bug Fixes
+
+* only debug rbac if the service exists ([4eadb0a](https://github.com/wmfs/tymly-runner/commit/4eadb0a))
+
 # [2.88.0](https://github.com/wmfs/tymly-runner/compare/v2.87.0...v2.88.0) (2019-03-18)
 
 
