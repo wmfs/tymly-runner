@@ -1,3 +1,15 @@
+# [2.92.0](https://github.com/wmfs/tymly-runner/compare/v2.91.0...v2.92.0) (2019-03-21)
+
+
+### 🐛 Bug Fixes
+
+* Don't dump out the rbac debug tree at start up. ([76f223d](https://github.com/wmfs/tymly-runner/commit/76f223d))
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.90.1 to 1.90.2 ([a8db5b5](https://github.com/wmfs/tymly-runner/commit/a8db5b5))
+
 # [2.91.0](https://github.com/wmfs/tymly-runner/compare/v2.90.0...v2.91.0) (2019-03-21)
 
 
