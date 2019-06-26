@@ -1,3 +1,14 @@
+# [2.97.0](https://github.com/wmfs/tymly-runner/compare/v2.96.0...v2.97.0) (2019-06-26)
+
+
+### 🛠 Builds
+
+* **deps:** update config requirement from 3.0.1 to 3.1.0 ([c1c7038](https://github.com/wmfs/tymly-runner/commit/c1c7038))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([45c5971](https://github.com/wmfs/tymly-runner/commit/45c5971))
+* **deps-dev:** update codecov requirement from 3.1.0 to 3.5.0 ([724e255](https://github.com/wmfs/tymly-runner/commit/724e255))
+* **deps-dev:** update nodemon requirement from 1.18.9 to 1.19.1 ([e104828](https://github.com/wmfs/tymly-runner/commit/e104828))
+* **deps-dev:** update semantic-release requirement ([7d2652b](https://github.com/wmfs/tymly-runner/commit/7d2652b))
+
 # [2.96.0](https://github.com/wmfs/tymly-runner/compare/v2.95.0...v2.96.0) (2019-05-28)
 
 
