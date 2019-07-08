@@ -1,7 +1,7 @@
 # Tymly-runner
 [![Tymly Package](https://img.shields.io/badge/tymly-package-blue.svg)](https://tymly.io/)
 [![npm (scoped)](https://img.shields.io/npm/v/@wmfs/tymly-runner.svg)](https://www.npmjs.com/package/@wmfs/tymly-runner)
-[![Build Status](https://travis-ci.org/wmfs/tymly-runner.svg?branch=master)](https://travis-ci.org/wmfs/tymly-runner)
+[![CircleCI](https://circleci.com/gh/wmfs/tymly-runner.svg?style=svg)](https://circleci.com/gh/wmfs/tymly-runner)
 [![codecov](https://codecov.io/gh/wmfs/tymly-runner/branch/master/graph/badge.svg)](https://codecov.io/gh/wmfs/tymly-runner)
 [![CodeFactor](https://www.codefactor.io/repository/github/wmfs/tymly-runner/badge)](https://www.codefactor.io/repository/github/wmfs/tymly-runner)
 [![Dependabot badge](https://img.shields.io/badge/Dependabot-active-brightgreen.svg)](https://dependabot.com/)
