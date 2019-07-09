@@ -1,3 +1,23 @@
+# [2.100.0](https://github.com/wmfs/tymly-runner/compare/v2.99.0...v2.100.0) (2019-07-09)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly to 1.94.2 ([827a890](https://github.com/wmfs/tymly-runner/commit/827a890))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-pg-plugin requirement ([4805e4d](https://github.com/wmfs/tymly-runner/commit/4805e4d))
+* **deps-dev:** update nyc requirement from 13.2.0 to 14.1.1 ([b0285d8](https://github.com/wmfs/tymly-runner/commit/b0285d8))
+
+
+### 📚 Documentation
+
+* Add Circle badge ([a373f68](https://github.com/wmfs/tymly-runner/commit/a373f68))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Add CircleCI config ([6b95f9e](https://github.com/wmfs/tymly-runner/commit/6b95f9e))
+* **travis:** Remove Travis config ([10ff839](https://github.com/wmfs/tymly-runner/commit/10ff839))
+
 # [2.99.0](https://github.com/wmfs/tymly-runner/compare/v2.98.0...v2.99.0) (2019-07-02)
 
 
