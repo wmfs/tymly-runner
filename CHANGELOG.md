@@ -1,3 +1,16 @@
+# [2.105.0](https://github.com/wmfs/tymly-runner/compare/v2.104.0...v2.105.0) (2019-10-03)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly ([a05b2b7](https://github.com/wmfs/tymly-runner/commit/a05b2b7))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement ([6bc1ffa](https://github.com/wmfs/tymly-runner/commit/6bc1ffa))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([e64f95d](https://github.com/wmfs/tymly-runner/commit/e64f95d))
+* **deps-dev:** update cz-conventional-changelog requirement ([30467f1](https://github.com/wmfs/tymly-runner/commit/30467f1))
+* **deps-dev:** update mocha requirement from 6.1.4 to 6.2.0 ([01ea48a](https://github.com/wmfs/tymly-runner/commit/01ea48a))
+* **deps-dev:** update nodemon requirement from 1.19.1 to 1.19.2 ([d3d0fa1](https://github.com/wmfs/tymly-runner/commit/d3d0fa1))
+* **deps-dev:** update semantic-release requirement ([b545a00](https://github.com/wmfs/tymly-runner/commit/b545a00))
+
 # [2.104.0](https://github.com/wmfs/tymly-runner/compare/v2.103.0...v2.104.0) (2019-09-09)
 
 
