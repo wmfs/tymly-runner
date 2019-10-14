@@ -18,6 +18,9 @@
         "port": "TYMLY_EMAIL_PORT"
       }
     },
-    "solrUrl": "SOLR_URL"
+    "solrUrl": "SOLR_URL",
+    "visionExport": {
+      "directory": "VISION_EXPORT_DIRECTORY"
+    }
   }
 }
