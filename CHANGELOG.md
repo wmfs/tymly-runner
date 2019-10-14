@@ -1,3 +1,10 @@
+# [2.106.0](https://github.com/wmfs/tymly-runner/compare/v2.105.0...v2.106.0) (2019-10-14)
+
+
+### ✨ Features
+
+* Config support for vision extract ([](https://github.com/wmfs/tymly-runner/commit/f80abfa))
+
 # [2.105.0](https://github.com/wmfs/tymly-runner/compare/v2.104.0...v2.105.0) (2019-10-03)
 
 
