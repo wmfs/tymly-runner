@@ -22,25 +22,25 @@
   "main": "./lib/index.js",
   "dependencies": {
     "boom": "7.3.0",
-    "config": "3.1.0",
+    "config": "3.2.4",
     "debug": "4.1.1",
-    "lodash": "4.17.14",
-    "safe-buffer": "5.1.2",
-    "@wmfs/tymly": "1.99.0"
+    "lodash": "4.17.15",
+    "safe-buffer": "5.2.0",
+    "@wmfs/tymly": "1.101.0"
   },
   "devDependencies": {
     "chai": "4.2.0",
-    "codecov": "3.5.0",
-    "conventional-changelog-metahub": "2.0.2",
+    "codecov": "3.6.1",
+    "conventional-changelog-metahub": "3.0.0",
     "cz-conventional-changelog": "3.0.2",
-    "mocha": "6.2.0",
-    "nodemon": "1.19.2",
+    "mocha": "6.2.2",
+    "nodemon": "1.19.4",
     "nyc": "14.1.1",
-    "semantic-release": "15.13.24",
+    "semantic-release": "15.13.30",
     "standard": "12.0.1",
-    "@semantic-release/changelog": "3.0.4",
-    "@semantic-release/git": "7.0.16",
-    "@wmfs/tymly-pg-plugin": "1.127.0"
+    "@semantic-release/changelog": "3.0.5",
+    "@semantic-release/git": "7.0.18",
+    "@wmfs/tymly-pg-plugin": "1.135.1"
   },
   "scripts": {
     "start": "node ./lib/index.js",
