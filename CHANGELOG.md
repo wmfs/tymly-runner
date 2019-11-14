@@ -1,3 +1,10 @@
+# [2.108.0](https://github.com/wmfs/tymly-runner/compare/v2.107.0...v2.108.0) (2019-11-14)
+
+
+### 🛠 Builds
+
+* **deps:** update many deps ([ba2b240](https://github.com/wmfs/tymly-runner/commit/ba2b24080029a226dcaef49b3934b109ac4ed73d))
+
 # [2.107.0](https://github.com/wmfs/tymly-runner/compare/v2.106.0...v2.107.0) (2019-10-15)
 
 
