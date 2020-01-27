@@ -40,7 +40,7 @@
     "standard": "14.3.1",
     "@semantic-release/changelog": "3.0.6",
     "@semantic-release/git": "7.0.18",
-    "@wmfs/tymly-pg-plugin": "1.154.0"
+    "@wmfs/tymly-pg-plugin": "1.155.0"
   },
   "scripts": {
     "start": "node ./lib/index.js",
