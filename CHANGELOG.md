@@ -1,3 +1,21 @@
+# [2.112.0](https://github.com/wmfs/tymly-runner/compare/v2.111.0...v2.112.0) (2020-01-27)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.112.1 to 1.114.0 ([9df5920](https://github.com/wmfs/tymly-runner/commit/9df5920fb3be9d495b650cb78ec4b14f92d0ee80))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.151.1 to 1.153.0 ([cac45e6](https://github.com/wmfs/tymly-runner/commit/cac45e6f43744a864efb5d6c77d732a06177fd71))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.153.0 to 1.154.0 ([f837c2a](https://github.com/wmfs/tymly-runner/commit/f837c2af9d5742a48f0863ce05b857b292ed8de2))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.154.0 to 1.155.0 ([46aa7c8](https://github.com/wmfs/tymly-runner/commit/46aa7c82b77fdc643994b1c4818d74ed1899826c))
+* **deps-dev:** bump codecov from 3.6.1 to 3.6.2 ([8f18465](https://github.com/wmfs/tymly-runner/commit/8f184655ebf37bf7161098a68722b77a5627af93))
+* **deps-dev:** bump mocha from 7.0.0 to 7.0.1 ([8309194](https://github.com/wmfs/tymly-runner/commit/8309194c27dbc68b7e1f9314ec2069daff0e888c))
+* **deps-dev:** update standard requirement from 12.0.1 to 14.3.1 ([ff1b26b](https://github.com/wmfs/tymly-runner/commit/ff1b26bdd74588790a6a0c35600a02a2ffa23481))
+
+
+### 💎 Styles
+
+* Do not access Object.prototype method 'hasOwnProperty' from target object. ([dd3e468](https://github.com/wmfs/tymly-runner/commit/dd3e46850889363ec6db38da41796cf3284e2f7a))
+
 # [2.111.0](https://github.com/wmfs/tymly-runner/compare/v2.110.0...v2.111.0) (2020-01-23)
 
 
