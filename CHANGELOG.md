@@ -1,3 +1,11 @@
+# [2.116.0](https://github.com/wmfs/tymly-runner/compare/v2.115.0...v2.116.0) (2020-01-29)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.117.0 to 1.118.0 ([6b5049a](https://github.com/wmfs/tymly-runner/commit/6b5049a29bdbc5179e01434bb21e918b56af4949))
+* **deps-dev:** bump cz-conventional-changelog from 3.0.2 to 3.1.0 ([9bde51a](https://github.com/wmfs/tymly-runner/commit/9bde51ad70bd47605ce255a233aaa29bd75724e1))
+
 # [2.115.0](https://github.com/wmfs/tymly-runner/compare/v2.114.0...v2.115.0) (2020-01-28)
 
 
