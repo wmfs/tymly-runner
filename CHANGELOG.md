@@ -1,3 +1,20 @@
+# [2.117.0](https://github.com/wmfs/tymly-runner/compare/v2.116.0...v2.117.0) (2020-02-02)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.118.0 to 1.119.0 ([d601c12](https://github.com/wmfs/tymly-runner/commit/d601c127ab8b6f3b28c374d051544b2bd4dc5404))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.158.0 to 1.159.0 ([8bc744d](https://github.com/wmfs/tymly-runner/commit/8bc744de563249b51cdb282423e9fee84d157ec6))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.159.0 to 1.160.0 ([a86afbf](https://github.com/wmfs/tymly-runner/commit/a86afbfdffee4511063339cbe671ee300fb90a17))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.160.0 to 1.161.0 ([57a0e2c](https://github.com/wmfs/tymly-runner/commit/57a0e2cedc759c60e7b6bb65d0d5cdca7710cd27))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.161.0 to 1.162.0 ([71e5c88](https://github.com/wmfs/tymly-runner/commit/71e5c8835feed8c912ad356b25d97741cce09e20))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.162.0 to 1.164.0 ([aab2462](https://github.com/wmfs/tymly-runner/commit/aab2462a0a777228dbbccb8eedde507aab8bf059))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.162.0 to 1.165.0 ([baf1521](https://github.com/wmfs/tymly-runner/commit/baf15219df68ef5241440b92441bd43866e717e8))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.165.0 to 1.167.0 ([3a518f0](https://github.com/wmfs/tymly-runner/commit/3a518f0a99f7abdf127f04ba8f7f2d9497918478))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.167.0 to 1.168.0 ([3c1c27c](https://github.com/wmfs/tymly-runner/commit/3c1c27ce90d68bdcf86252fc7e19e1cf1185ccb0))
+* **deps-dev:** bump codecov from 3.6.2 to 3.6.3 ([4880f07](https://github.com/wmfs/tymly-runner/commit/4880f077e9b09ceed3ea2212f42196da5196a177))
+* **deps-dev:** bump codecov from 3.6.3 to 3.6.4 ([f5ee493](https://github.com/wmfs/tymly-runner/commit/f5ee49337c15f6a03b182f7cb68e9eaee985e5d3))
+
 # [2.116.0](https://github.com/wmfs/tymly-runner/compare/v2.115.0...v2.116.0) (2020-01-29)
 
 
