@@ -1,3 +1,10 @@
+## [2.117.2](https://github.com/wmfs/tymly-runner/compare/v2.117.1...v2.117.2) (2020-02-13)
+
+
+### 🐛 Bug Fixes
+
+* return callback if no server ([65abbdb](https://github.com/wmfs/tymly-runner/commit/65abbdb41fab5d7d18520401a9bf13e97685d2d2))
+
 ## [2.117.1](https://github.com/wmfs/tymly-runner/compare/v2.117.0...v2.117.1) (2020-02-13)
 
 
