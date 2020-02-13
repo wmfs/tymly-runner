@@ -1,3 +1,19 @@
+## [2.117.1](https://github.com/wmfs/tymly-runner/compare/v2.117.0...v2.117.1) (2020-02-13)
+
+
+### 🐛 Bug Fixes
+
+* wait for server to listen before done booting ([5bf4910](https://github.com/wmfs/tymly-runner/commit/5bf4910e05927490cd3f06e13327a1bbc3657c44))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/git from 7.0.18 to 9.0.0 ([4e0356d](https://github.com/wmfs/tymly-runner/commit/4e0356d752d6fc69a30c9ecff40b22e536d88707))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.168.0 to 1.169.0 ([1092d6b](https://github.com/wmfs/tymly-runner/commit/1092d6bec421f62f453328752deb03087373f1df))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.169.0 to 1.170.0 ([360f699](https://github.com/wmfs/tymly-runner/commit/360f6991c8d35bbedea69687574ef1fc73b053ad))
+* **deps-dev:** bump codecov from 3.6.4 to 3.6.5 ([da8f37f](https://github.com/wmfs/tymly-runner/commit/da8f37f2d9f69f37667c341206d18338402dbad0))
+* **deps-dev:** bump semantic-release from 15.14.0 to 17.0.3 ([6e2de63](https://github.com/wmfs/tymly-runner/commit/6e2de638fbaf2a6112be70d5c863ba1329335751))
+
 # [2.117.0](https://github.com/wmfs/tymly-runner/compare/v2.116.0...v2.117.0) (2020-02-02)
 
 
