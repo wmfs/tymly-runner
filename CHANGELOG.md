@@ -1,3 +1,12 @@
+# [2.118.0](https://github.com/wmfs/tymly-runner/compare/v2.117.2...v2.118.0) (2020-02-26)
+
+
+### 🛠 Builds
+
+* **deps:** bump config from 3.2.5 to 3.2.6 ([883115f](https://github.com/wmfs/tymly-runner/commit/883115f5aee13faff2eec8ed55fe89076fb9081c))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.170.0 to 1.171.0 ([681b719](https://github.com/wmfs/tymly-runner/commit/681b719c5bc00aa6fb8d805b20685c398eee3d6a))
+* **deps-dev:** bump semantic-release from 17.0.3 to 17.0.4 ([1915b9b](https://github.com/wmfs/tymly-runner/commit/1915b9bec538fcfc465e8281e4f226e5be005f82))
+
 ## [2.117.2](https://github.com/wmfs/tymly-runner/compare/v2.117.1...v2.117.2) (2020-02-13)
 
 
