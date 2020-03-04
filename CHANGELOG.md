@@ -1,3 +1,10 @@
+# [2.122.0](https://github.com/wmfs/tymly-runner/compare/v2.121.0...v2.122.0) (2020-03-04)
+
+
+### ✨ Features
+
+* add mods paths and excluded to config ([e66e096](https://github.com/wmfs/tymly-runner/commit/e66e096a2e00115d9e4be19900b25d7eb3c4f812))
+
 # [2.121.0](https://github.com/wmfs/tymly-runner/compare/v2.120.0...v2.121.0) (2020-02-27)
 
 
