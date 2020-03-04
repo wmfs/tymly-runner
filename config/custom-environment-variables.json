@@ -1,8 +1,10 @@
 {
+  "modPaths": "TYMLY_MODS_PATH",
   "pluginPaths": "TYMLY_PLUGINS_PATH",
   "blueprintPaths": "TYMLY_BLUEPRINTS_PATH",
   "excludePlugins": "TYMLY_EXCLUDED_PLUGIN_NAMES",
   "excludeBlueprints": "TYMLY_EXCLUDED_BLUEPRINT_NAMES",
+  "excludeMods": "TYMLY_EXCLUDED_MOD_NAMES",
   "config": {
     "serverPort": "TYMLY_SERVER_PORT",
     "auth": {
