@@ -1,3 +1,11 @@
+# [2.125.0](https://github.com/wmfs/tymly-runner/compare/v2.124.0...v2.125.0) (2020-03-23)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.126.2 to 1.127.0 ([cf794cc](https://github.com/wmfs/tymly-runner/commit/cf794cc1dc8cdd6f2c6eb9a9039343989ad141b0))
+* **deps-dev:** bump mocha from 7.1.0 to 7.1.1 ([d3a4ce9](https://github.com/wmfs/tymly-runner/commit/d3a4ce9a5500bdcaa4e4097dfc00b554f900d325))
+
 # [2.124.0](https://github.com/wmfs/tymly-runner/compare/v2.123.0...v2.124.0) (2020-03-16)
 
 
