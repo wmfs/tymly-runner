@@ -1,3 +1,19 @@
+# [2.126.0](https://github.com/wmfs/tymly-runner/compare/v2.125.0...v2.126.0) (2020-04-02)
+
+
+### 🛠 Builds
+
+* **deps:** bump config from 3.3.0 to 3.3.1 ([9ddc128](https://github.com/wmfs/tymly-runner/commit/9ddc128630292e5330a2a29600d183b0ef39b576))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 5.0.0 to 5.0.1 ([e242aad](https://github.com/wmfs/tymly-runner/commit/e242aad11091ce27a3907efaf6cde1be73dfec80))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.176.0 to 1.178.0 ([ed1cd06](https://github.com/wmfs/tymly-runner/commit/ed1cd06fa4ef533da7bc0b6299c29b36c7875c7f))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.178.0 to 1.179.0 ([f9c5a22](https://github.com/wmfs/tymly-runner/commit/f9c5a22edfccc07900de791240353ba3b6788db8))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.179.0 to 1.181.0 ([e4c5fff](https://github.com/wmfs/tymly-runner/commit/e4c5fff1d2339a787d5168af0a94dfcc9299afa1))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** add context env var config to config.yml ([7740c92](https://github.com/wmfs/tymly-runner/commit/7740c920296ad9847aa1a997ab4d7405ad2dc3f7))
+
 # [2.125.0](https://github.com/wmfs/tymly-runner/compare/v2.124.0...v2.125.0) (2020-03-23)
 
 
