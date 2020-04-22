@@ -1,3 +1,10 @@
+# [2.133.0](https://github.com/wmfs/tymly-runner/compare/v2.132.0...v2.133.0) (2020-04-22)
+
+
+### 🛠 Builds
+
+* **deps:** Remove unused boom, debug, safe-buffer dependencies ([e59fc28](https://github.com/wmfs/tymly-runner/commit/e59fc282bdde8e71a2fb0cb6ec18bb3d7f32fab9))
+
 # [2.132.0](https://github.com/wmfs/tymly-runner/compare/v2.131.0...v2.132.0) (2020-04-22)
 
 
