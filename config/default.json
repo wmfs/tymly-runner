@@ -1,5 +1,6 @@
 {
   "config": {
+    "serverHost": "0.0.0.0",
     "serverPort": 3000,
     "defaultUsers": {
       "admin": ["ordnanceSurvey_ordnanceSurveyAdmin", "wmfs_addressboxAdmin"]
