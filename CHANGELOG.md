@@ -1,3 +1,15 @@
+# [2.137.0](https://github.com/wmfs/tymly-runner/compare/v2.136.0...v2.137.0) (2020-06-01)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.138.0 to 1.143.0 ([88cbf2d](https://github.com/wmfs/tymly-runner/commit/88cbf2daea7d1868b01b912e6ee63d722984eacc))
+* **deps-dev:** bump codecov from 3.6.5 to 3.7.0 ([21f3d38](https://github.com/wmfs/tymly-runner/commit/21f3d3851584ee30955b50b11075503407136397))
+* **deps-dev:** bump mocha from 7.1.2 to 7.2.0 ([71a54cb](https://github.com/wmfs/tymly-runner/commit/71a54cbb804d495a9b3c0e32e3f7608e6ee8e9ee))
+* **deps-dev:** bump nodemon from 2.0.3 to 2.0.4 ([ddf5fb0](https://github.com/wmfs/tymly-runner/commit/ddf5fb07a503f78b62d431206165c84172be6e3b))
+* **deps-dev:** bump nyc from 15.0.1 to 15.1.0 ([1cbf661](https://github.com/wmfs/tymly-runner/commit/1cbf661cda251bb4fa96b2f2531bdbf96cf5e538))
+* **deps-dev:** bump semantic-release from 17.0.7 to 17.0.8 ([796c14c](https://github.com/wmfs/tymly-runner/commit/796c14cf2d643478aefe65b3729560d11119c0bd))
+
 # [2.136.0](https://github.com/wmfs/tymly-runner/compare/v2.135.0...v2.136.0) (2020-05-13)
 
 
