@@ -1,3 +1,20 @@
+# [2.138.0](https://github.com/wmfs/tymly-runner/compare/v2.137.0...v2.138.0) (2020-06-30)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly ([ac89764](https://github.com/wmfs/tymly-runner/commit/ac8976468fc2549f55799a9f964909c28114202b))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.204.0 to 1.206.0 ([5eaa4a6](https://github.com/wmfs/tymly-runner/commit/5eaa4a6744f2261cec1627b5af66fcb671419e88))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.206.0 to 1.207.0 ([b084245](https://github.com/wmfs/tymly-runner/commit/b084245d6231a71348ffb7d9b3e2505d3700da37))
+* **deps-dev:** bump mocha from 7.2.0 to 8.0.1 ([5e3a6d4](https://github.com/wmfs/tymly-runner/commit/5e3a6d4e93bc91d9998be47cb0d288b2876fb1c0))
+* **deps-dev:** bump semantic-release from 17.0.8 to 17.1.0 ([eb28622](https://github.com/wmfs/tymly-runner/commit/eb28622ab429641d04d78399778c2034b33d79f4))
+* **deps-dev:** bump semantic-release from 17.1.0 to 17.1.1 ([9801934](https://github.com/wmfs/tymly-runner/commit/98019347b2ee4dd8da68a508244cef0454d59da1))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** use updated circle node image [skip ci] ([d268ea8](https://github.com/wmfs/tymly-runner/commit/d268ea8dd321d4af609cdd90b6330e497d1f9871))
+
 # [2.137.0](https://github.com/wmfs/tymly-runner/compare/v2.136.0...v2.137.0) (2020-06-01)
 
 
