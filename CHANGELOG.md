@@ -1,3 +1,10 @@
+# [2.139.0](https://github.com/wmfs/tymly-runner/compare/v2.138.0...v2.139.0) (2020-07-13)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.15 to 4.17.19 ([7637b91](https://github.com/wmfs/tymly-runner/commit/7637b912ece87a143634287f1a7c89cb8415c037))
+
 # [2.138.0](https://github.com/wmfs/tymly-runner/compare/v2.137.0...v2.138.0) (2020-06-30)
 
 
