@@ -23,7 +23,7 @@
   "dependencies": {
     "config": "3.3.1",
     "lodash": "4.17.19",
-    "@wmfs/tymly": "github:wmfs/tymly-core#category-upsert"
+    "@wmfs/tymly": "1.150.0"
   },
   "devDependencies": {
     "chai": "4.2.0",
