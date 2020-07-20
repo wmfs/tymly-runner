@@ -1,3 +1,12 @@
+# [2.142.0](https://github.com/wmfs/tymly-runner/compare/v2.141.0...v2.142.0) (2020-07-20)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.151.0 to 1.153.0 ([9e53949](https://github.com/wmfs/tymly-runner/commit/9e5394918dcdf3022bd7896a6140e40a33dd0802))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.214.0 to 1.215.0 ([00586bd](https://github.com/wmfs/tymly-runner/commit/00586bd06e1776ef94a324c17f4a905a9e2d2ce9))
+* **deps-dev:** bump codecov from 3.7.0 to 3.7.1 ([a3c89a0](https://github.com/wmfs/tymly-runner/commit/a3c89a047400f9d8b2b435863bf4e484298074ee))
+
 # [2.141.0](https://github.com/wmfs/tymly-runner/compare/v2.140.0...v2.141.0) (2020-07-16)
 
 
