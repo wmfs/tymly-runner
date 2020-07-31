@@ -42,7 +42,7 @@
   "scripts": {
     "start": "node ./lib/index.js",
     "lint": "standard",
-    "test": "nyc mocha && standard",
+    "test": "nyc mocha",
     "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
     "semantic-release": "semantic-release",
     "start-nodemon": "nodemon --watch ./../../blueprints --watch ./../../plugins ./lib/index.js --legacy-watch"
