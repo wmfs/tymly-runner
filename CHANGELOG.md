@@ -1,3 +1,17 @@
+# [2.143.0](https://github.com/wmfs/tymly-runner/compare/v2.142.0...v2.143.0) (2020-08-04)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.153.0 to 1.154.0 ([0af4731](https://github.com/wmfs/tymly-runner/commit/0af4731a16fe74bb87fafd9a729eb63437d7df0f))
+* **deps-dev:** bump codecov from 3.7.1 to 3.7.2 ([0ffc0c7](https://github.com/wmfs/tymly-runner/commit/0ffc0c77f656a2a4ae32ba87dcec88bdcaf10d8a))
+* **deps-dev:** bump mocha from 8.0.1 to 8.1.0 ([75d00ce](https://github.com/wmfs/tymly-runner/commit/75d00ce4df5a0c78d606c5cb2de5f7492d7689bf))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** separate lint job [ch1009] ([05fd62b](https://github.com/wmfs/tymly-runner/commit/05fd62b0536d6cd2e31748a7e09bbfa26c394511))
+
 # [2.142.0](https://github.com/wmfs/tymly-runner/compare/v2.141.0...v2.142.0) (2020-07-20)
 
 
