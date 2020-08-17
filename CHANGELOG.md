@@ -1,3 +1,12 @@
+# [2.144.0](https://github.com/wmfs/tymly-runner/compare/v2.143.0...v2.144.0) (2020-08-17)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.19 to 4.17.20 ([4c9f9c6](https://github.com/wmfs/tymly-runner/commit/4c9f9c640e1542c0d964aec5ff80935334e81e5a))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.215.0 to 1.215.1 ([153d7cc](https://github.com/wmfs/tymly-runner/commit/153d7cc53fce7c8b2875f04cfe96f5a825c04ef4))
+* **deps-dev:** bump mocha from 8.1.0 to 8.1.1 ([58e036a](https://github.com/wmfs/tymly-runner/commit/58e036aafdb26f6ec7fef7079aa2fe63756855ca))
+
 # [2.143.0](https://github.com/wmfs/tymly-runner/compare/v2.142.0...v2.143.0) (2020-08-04)
 
 
