@@ -1,3 +1,20 @@
+# [2.146.0](https://github.com/wmfs/tymly-runner/compare/v2.145.0...v2.146.0) (2020-09-28)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.157.0 to 1.160.0 ([d839c52](https://github.com/wmfs/tymly-runner/commit/d839c52a45a2f4ef042692ced74454d0a5fe8c16))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.216.0 to 1.223.0 ([fd4d77c](https://github.com/wmfs/tymly-runner/commit/fd4d77ca296f16161a0cbb8f3a7bb64db5ce5b13))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.223.0 to 1.224.0 ([96b1a73](https://github.com/wmfs/tymly-runner/commit/96b1a7342483bc2d88d707d7b7c883a734f883b2))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.224.0 to 1.225.0 ([9f97ea1](https://github.com/wmfs/tymly-runner/commit/9f97ea19be8334d9a7dc8d1aff12edcc60122f77))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.225.0 to 1.225.1 ([e46bd3f](https://github.com/wmfs/tymly-runner/commit/e46bd3f289b9539e92b375161016cba63342b778))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.225.1 to 1.225.2 ([a2b17a9](https://github.com/wmfs/tymly-runner/commit/a2b17a9280b1fcff374cbc0bf38ea215e34c088c))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.0 to 3.2.1 ([5fc4f11](https://github.com/wmfs/tymly-runner/commit/5fc4f113aee0d6b68ab29700106119502a9c73c6))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.1 to 3.3.0 ([f66e58e](https://github.com/wmfs/tymly-runner/commit/f66e58e19a881394b36334b0f1d7aee352dba709))
+* **deps-dev:** bump mocha from 8.1.1 to 8.1.2 ([1679b01](https://github.com/wmfs/tymly-runner/commit/1679b01a4e194900fd58bdcc27150e1237891dc2))
+* **deps-dev:** bump mocha from 8.1.2 to 8.1.3 ([f44469c](https://github.com/wmfs/tymly-runner/commit/f44469c710a68e510005cdd722a9289a03a5f370))
+* **deps-dev:** bump semantic-release from 17.1.1 to 17.1.2 ([a0e875d](https://github.com/wmfs/tymly-runner/commit/a0e875d241e9287b47bf2310b4c454c2b9a61fdc))
+
 # [2.145.0](https://github.com/wmfs/tymly-runner/compare/v2.144.0...v2.145.0) (2020-08-24)
 
 
