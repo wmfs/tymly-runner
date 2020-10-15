@@ -1,3 +1,17 @@
+# [2.148.0](https://github.com/wmfs/tymly-runner/compare/v2.147.0...v2.148.0) (2020-10-15)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.160.0 to 1.166.0 ([b7dc247](https://github.com/wmfs/tymly-runner/commit/b7dc24715085fbee58c556076a5c508f57714aec))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.225.2 to 1.227.0 ([bf1fe40](https://github.com/wmfs/tymly-runner/commit/bf1fe40ddc0881e8f072408d0cb8a9c6d09f1a46))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.227.0 to 1.230.0 ([d3bc9db](https://github.com/wmfs/tymly-runner/commit/d3bc9db34abb8aba566361f801312bb35a7f0981))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.230.0 to 1.231.0 ([b1e3a95](https://github.com/wmfs/tymly-runner/commit/b1e3a95255269968d7b24e4950f9d705b195d3fc))
+* **deps-dev:** bump codecov from 3.7.2 to 3.8.0 ([c4b3af8](https://github.com/wmfs/tymly-runner/commit/c4b3af8ebaadeaa10c7fb924942f8b15be04e2a6))
+* **deps-dev:** bump nodemon from 2.0.4 to 2.0.5 ([8705fdc](https://github.com/wmfs/tymly-runner/commit/8705fdc659feece8b428e4b0f2620ce15e7251e6))
+* **deps-dev:** bump semantic-release from 17.1.2 to 17.2.0 ([7459744](https://github.com/wmfs/tymly-runner/commit/7459744f3719abfd05b07aeed587da1d723efe06))
+* **deps-dev:** bump semantic-release from 17.2.0 to 17.2.1 ([cd10052](https://github.com/wmfs/tymly-runner/commit/cd100521f3a10d1edde00ba91351570bcbedeb43))
+
 # [2.147.0](https://github.com/wmfs/tymly-runner/compare/v2.146.0...v2.147.0) (2020-09-28)
 
 
