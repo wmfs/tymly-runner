@@ -1,3 +1,29 @@
+# [2.149.0](https://github.com/wmfs/tymly-runner/compare/v2.148.0...v2.149.0) (2020-11-12)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.166.0 to 1.170.0 ([cb4e634](https://github.com/wmfs/tymly-runner/commit/cb4e634337ce9cc5f68a879b65556e7c581d40c7))
+* **deps-dev:** bump codecov from 3.8.0 to 3.8.1 ([909cf5d](https://github.com/wmfs/tymly-runner/commit/909cf5d2744f4876777e6e0d574ec401fccda9c5))
+* **deps-dev:** bump mocha from 8.1.3 to 8.2.0 ([7e233bd](https://github.com/wmfs/tymly-runner/commit/7e233bdb8a07ada39f6328aa7ce5217e6f48390c))
+* **deps-dev:** bump mocha from 8.2.0 to 8.2.1 ([1b87e27](https://github.com/wmfs/tymly-runner/commit/1b87e276cd9f75e19288fe75305802d6991d316a))
+* **deps-dev:** bump nodemon from 2.0.5 to 2.0.6 ([41ed173](https://github.com/wmfs/tymly-runner/commit/41ed173588971ed58a37bb7cd045312319f2ab13))
+* **deps-dev:** bump semantic-release from 17.2.1 to 17.2.2 ([22616f6](https://github.com/wmfs/tymly-runner/commit/22616f6a2d9d675f2f925fbeea628be2e5a127e9))
+* **deps-dev:** bump standard from 14.3.4 to 15.0.0 ([c9a6438](https://github.com/wmfs/tymly-runner/commit/c9a643819ccf376d8e32080fe90a3cfdadb18fe4))
+* **deps-dev:** bump standard from 15.0.0 to 15.0.1 ([c1f7e4b](https://github.com/wmfs/tymly-runner/commit/c1f7e4b2419192496057edf084830077ed918ead))
+* **deps-dev:** bump standard from 15.0.1 to 16.0.0 ([75f58fb](https://github.com/wmfs/tymly-runner/commit/75f58fb4b3b0aff864cf09af23e5b9cf5ac5bee4))
+* **deps-dev:** bump standard from 16.0.0 to 16.0.1 ([fd6f152](https://github.com/wmfs/tymly-runner/commit/fd6f1524605a95a45d4104337204054b3c21fe1e))
+* **deps-dev:** bump standard from 16.0.1 to 16.0.2 ([605e24f](https://github.com/wmfs/tymly-runner/commit/605e24fc0151333aa35da66c285debe0f5c53bcd))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** authenticate Docker image pull [ch2767] ([c6ce562](https://github.com/wmfs/tymly-runner/commit/c6ce562e05677f6288b09c4045242f57f79a736f))
+* **circle:** cache dependencies [ch2770] ([a6cb5a0](https://github.com/wmfs/tymly-runner/commit/a6cb5a0cd4e824d99fa2eb99c753ba2faabdf2e1))
+* **circle:** separate linting job [ch1009] ([a162185](https://github.com/wmfs/tymly-runner/commit/a1621852d2e85f469e2255f1eb5ddb7208b90bf5))
+* **circle:** update build environment variable context name [ch2771] ([15bd33f](https://github.com/wmfs/tymly-runner/commit/15bd33fd781be5f5f95d68703051087a0e9465e7))
+* **circle:** use tmpfs postgres image [ch2769] ([b9a126a](https://github.com/wmfs/tymly-runner/commit/b9a126aef8ae4c70d2c282775147975d5210d42a))
+
 # [2.148.0](https://github.com/wmfs/tymly-runner/compare/v2.147.0...v2.148.0) (2020-10-15)
 
 
