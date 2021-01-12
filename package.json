@@ -23,7 +23,7 @@
   "dependencies": {
     "config": "3.3.3",
     "lodash": "4.17.20",
-    "@wmfs/tymly": "1.174.1"
+    "@wmfs/tymly": "1.181.0"
   },
   "devDependencies": {
     "chai": "4.2.0",
