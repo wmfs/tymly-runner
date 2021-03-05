@@ -1,3 +1,10 @@
+# [2.160.0](https://github.com/wmfs/tymly-runner/compare/v2.159.0...v2.160.0) (2021-03-05)
+
+
+### 🛠 Builds
+
+* **deps:** bump config from 3.3.3 to 3.3.4 ([771fc86](https://github.com/wmfs/tymly-runner/commit/771fc86095fb23d10655e59f0d497c61374c963f))
+
 # [2.159.0](https://github.com/wmfs/tymly-runner/compare/v2.158.0...v2.159.0) (2021-03-05)
 
 
