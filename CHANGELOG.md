@@ -1,3 +1,14 @@
+# [2.161.0](https://github.com/wmfs/tymly-runner/compare/v2.160.0...v2.161.0) (2021-03-18)
+
+
+### 🛠 Builds
+
+* **deps:** bump config from 3.3.4 to 3.3.6 ([0ea5a98](https://github.com/wmfs/tymly-runner/commit/0ea5a988c5da99b92c05e6663c09e8775c2ae7ba))
+* **deps-dev:** bump chai from 4.3.3 to 4.3.4 ([5286751](https://github.com/wmfs/tymly-runner/commit/5286751c99af205a9d34c977b8c1879cb36fff07))
+* **deps-dev:** bump mocha from 8.3.0 to 8.3.1 ([49b31fb](https://github.com/wmfs/tymly-runner/commit/49b31fb5ef3f3b882cb88cc7e78d12a787e87eab))
+* **deps-dev:** bump mocha from 8.3.1 to 8.3.2 ([88409df](https://github.com/wmfs/tymly-runner/commit/88409df1c5bed9ddb7c2227b666e64707ac7463d))
+* **deps-dev:** bump semantic-release from 17.4.1 to 17.4.2 ([8ce4c23](https://github.com/wmfs/tymly-runner/commit/8ce4c232e52e12f73998244b9bb4497a86b90638))
+
 # [2.160.0](https://github.com/wmfs/tymly-runner/compare/v2.159.0...v2.160.0) (2021-03-05)
 
 
