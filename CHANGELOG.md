@@ -1,3 +1,15 @@
+# [2.162.0](https://github.com/wmfs/tymly-runner/compare/v2.161.0...v2.162.0) (2021-03-18)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.192.0 to 1.195.0 ([7de8595](https://github.com/wmfs/tymly-runner/commit/7de859585bd09da76008c31b5509d217c5f845fb))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** update postgres config to 13.2 ([478eca1](https://github.com/wmfs/tymly-runner/commit/478eca143605fd33b802fe6097c3c7c4b61e262c))
+
 # [2.161.0](https://github.com/wmfs/tymly-runner/compare/v2.160.0...v2.161.0) (2021-03-18)
 
 
