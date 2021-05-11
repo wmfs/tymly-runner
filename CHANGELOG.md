@@ -1,3 +1,10 @@
+# [2.170.0](https://github.com/wmfs/tymly-runner/compare/v2.169.0...v2.170.0) (2021-05-11)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.203.0 to 1.204.0 ([4a6fef2](https://github.com/wmfs/tymly-runner/commit/4a6fef25f17efc8e955fc15421faeacfeb5b6a6b))
+
 # [2.169.0](https://github.com/wmfs/tymly-runner/compare/v2.168.0...v2.169.0) (2021-05-11)
 
 
