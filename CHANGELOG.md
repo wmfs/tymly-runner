@@ -1,3 +1,20 @@
+# [2.172.0](https://github.com/wmfs/tymly-runner/compare/v2.171.0...v2.172.0) (2021-07-15)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.209.0 to 1.212.0 ([ebeb91a](https://github.com/wmfs/tymly-runner/commit/ebeb91af86d8688a3b9f54b45054d4f82131f0fb))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-pg-plugin from 1.252.0 to 1.253.0 ([2608c18](https://github.com/wmfs/tymly-runner/commit/2608c186f9da9008dfff53d4174a511478999f04))
+* **deps-dev:** bump mocha from 8.4.0 to 9.0.0 ([17a875a](https://github.com/wmfs/tymly-runner/commit/17a875a78efd75e4c18c46116f608527d0d4e434))
+* **deps-dev:** bump mocha from 9.0.0 to 9.0.1 ([f20dd6a](https://github.com/wmfs/tymly-runner/commit/f20dd6aa702287bd0c933bfa6e881564cc722755))
+* **deps-dev:** bump mocha from 9.0.1 to 9.0.2 ([d1df3a9](https://github.com/wmfs/tymly-runner/commit/d1df3a98c16875951e0c9670ba3ec2c061d68398))
+* **deps-dev:** bump nodemon from 2.0.10 to 2.0.11 ([120edc6](https://github.com/wmfs/tymly-runner/commit/120edc6b869eaefd5645566ced40bf3700fd013e))
+* **deps-dev:** bump nodemon from 2.0.11 to 2.0.12 ([a387425](https://github.com/wmfs/tymly-runner/commit/a387425dbd646b447d03ae3450fc7f8ca41e2649))
+* **deps-dev:** bump nodemon from 2.0.7 to 2.0.8 ([28a15e9](https://github.com/wmfs/tymly-runner/commit/28a15e9fd2afbee63fbdda03c4a20ea3f7b8f2e5))
+* **deps-dev:** bump nodemon from 2.0.8 to 2.0.9 ([cc8eb8f](https://github.com/wmfs/tymly-runner/commit/cc8eb8fd4b44aa86d091ec22ccddd6392de98e3b))
+* **deps-dev:** bump nodemon from 2.0.9 to 2.0.10 ([a7ac8d2](https://github.com/wmfs/tymly-runner/commit/a7ac8d27a7adb8117209ef34a07028d9a498096b))
+* **deps-dev:** bump semantic-release from 17.4.3 to 17.4.4 ([35ee676](https://github.com/wmfs/tymly-runner/commit/35ee676d4260742619bc0146249ea2dafb2cf91a))
+
 # [2.171.0](https://github.com/wmfs/tymly-runner/compare/v2.170.0...v2.171.0) (2021-05-26)
 
 
