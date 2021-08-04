@@ -1,3 +1,23 @@
+# [2.173.0](https://github.com/wmfs/tymly-runner/compare/v2.172.0...v2.173.0) (2021-08-04)
+
+
+### ✨ Features
+
+* added time taken and an ascii image of tymly ([c0db550](https://github.com/wmfs/tymly-runner/commit/c0db5504850d990c6cfff11954ccc1465e6ed7bd))
+* changed log message to combine the done message with the time ([c4bc913](https://github.com/wmfs/tymly-runner/commit/c4bc9139ce67112bfc3f27629dcc29da06180e1f))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump codecov from 3.8.2 to 3.8.3 ([63c1698](https://github.com/wmfs/tymly-runner/commit/63c1698e0837e64a768a00b3e75d9ac1994b05d3))
+* **deps-dev:** bump mocha from 9.0.2 to 9.0.3 ([f4fbe29](https://github.com/wmfs/tymly-runner/commit/f4fbe29685c773dfea5e69bc0c9df428ed4c7244))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly-pg-plugin to v1.255.0 ([74dbf07](https://github.com/wmfs/tymly-runner/commit/74dbf0793e203e3ba17d733f347dc928cb62cb6c))
+
+
+### ♻️ Chores
+
+* add renovate config [ch6600] ([ceafcba](https://github.com/wmfs/tymly-runner/commit/ceafcbab6ec3c0de39f6d53f01fdfddf64822a8d))
+
 # [2.172.0](https://github.com/wmfs/tymly-runner/compare/v2.171.0...v2.172.0) (2021-07-15)
 
 
