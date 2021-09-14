@@ -1,3 +1,16 @@
+# [2.175.0](https://github.com/wmfs/tymly-runner/compare/v2.174.0...v2.175.0) (2021-09-14)
+
+
+### ✨ Features
+
+* console log errors in the runner ([96416b0](https://github.com/wmfs/tymly-runner/commit/96416b0be4339c2a52c986b5cfafd259948ea8f6))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency mocha to v9.1.1 ([5940de2](https://github.com/wmfs/tymly-runner/commit/5940de2f407ea4735e5ebbe356b2e0f5caa29d43))
+* **deps-dev:** update semantic-release monorepo ([26adc7c](https://github.com/wmfs/tymly-runner/commit/26adc7ceb16a06d19bbfdd9683f143fd03f18abe))
+
 # [2.174.0](https://github.com/wmfs/tymly-runner/compare/v2.173.0...v2.174.0) (2021-09-08)
 
 
