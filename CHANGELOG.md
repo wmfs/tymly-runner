@@ -1,3 +1,16 @@
+# [2.179.0](https://github.com/wmfs/tymly-runner/compare/v2.178.0...v2.179.0) (2021-10-04)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly to 1.217.0 ([6ddf7f5](https://github.com/wmfs/tymly-runner/commit/6ddf7f57e0ef1850531994ede77c77a33d5f30d5))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6 ([59a67fd](https://github.com/wmfs/tymly-runner/commit/59a67fd024845013343abbb1df6008bbfb2f57ea))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v10 ([a32d5c3](https://github.com/wmfs/tymly-runner/commit/a32d5c36bf9eaaa0389c7459a326c259780df79a))
+* **deps-dev:** update dependency mocha to v9.1.2 ([a21ba91](https://github.com/wmfs/tymly-runner/commit/a21ba91202828f7504aa5062ffd752dcf3619351))
+* **deps-dev:** update dependency nodemon to v2.0.13 ([2e24875](https://github.com/wmfs/tymly-runner/commit/2e24875bd7aa4666e0587f4125e0788643a87f61))
+* **deps-dev:** update dependency semantic-release to v18 ([07a02a5](https://github.com/wmfs/tymly-runner/commit/07a02a5d39d108cfd56bf91354fd0b2df9121aa1))
+* **deps-dev:** update dependency standard to v16.0.4 ([2dad086](https://github.com/wmfs/tymly-runner/commit/2dad086dd1a92d3b2a944ad99bb7bba8dfdab6b1))
+
 # [2.178.0](https://github.com/wmfs/tymly-runner/compare/v2.177.0...v2.178.0) (2021-09-14)
 
 
