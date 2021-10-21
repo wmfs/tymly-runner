@@ -1,3 +1,12 @@
+# [2.180.0](https://github.com/wmfs/tymly-runner/compare/v2.179.0...v2.180.0) (2021-10-21)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/tymly to 1.218.0 ([4916564](https://github.com/wmfs/tymly-runner/commit/4916564e655beff3bded7dc8e974dd53a9349cce))
+* **deps-dev:** update dependency mocha to v9.1.3 ([2a5e436](https://github.com/wmfs/tymly-runner/commit/2a5e4360b2cc5e1c502a89a7616fba73635c5d1f))
+* **deps-dev:** update dependency nodemon to v2.0.14 ([64d467a](https://github.com/wmfs/tymly-runner/commit/64d467a2d377804c69db2e88827a8e9e932a2e93))
+
 # [2.179.0](https://github.com/wmfs/tymly-runner/compare/v2.178.0...v2.179.0) (2021-10-04)
 
 
