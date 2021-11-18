@@ -1,3 +1,12 @@
+# [2.181.0](https://github.com/wmfs/tymly-runner/compare/v2.180.0...v2.181.0) (2021-11-18)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.220.0 ([d9f11d2](https://github.com/wmfs/tymly-runner/commit/d9f11d29062454519eade104aebabb9b2c6e908a))
+* **deps-dev:** update dependency nodemon to v2.0.15 ([588e471](https://github.com/wmfs/tymly-runner/commit/588e471c9f593835eeebada60619c4ea8a417281))
+* **deps-dev:** update semantic-release monorepo ([bd8f060](https://github.com/wmfs/tymly-runner/commit/bd8f06021a4d40238dc50aa358e757cfa4da68a8))
+
 # [2.180.0](https://github.com/wmfs/tymly-runner/compare/v2.179.0...v2.180.0) (2021-10-21)
 
 
