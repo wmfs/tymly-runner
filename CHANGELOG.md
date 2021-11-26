@@ -1,3 +1,11 @@
+# [2.182.0](https://github.com/wmfs/tymly-runner/compare/v2.181.0...v2.182.0) (2021-11-26)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.222.0 ([bf6d0c8](https://github.com/wmfs/tymly-runner/commit/bf6d0c8a1b83b4e84fd72c7b778c5ddb06191c41))
+* **deps-dev:** update dependency semantic-release to v18.0.1 ([08dabe9](https://github.com/wmfs/tymly-runner/commit/08dabe9fee4e7e505845935a1cd19aaff7df7187))
+
 # [2.181.0](https://github.com/wmfs/tymly-runner/compare/v2.180.0...v2.181.0) (2021-11-18)
 
 
