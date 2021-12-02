@@ -1,3 +1,15 @@
+# [2.187.0](https://github.com/wmfs/tymly-runner/compare/v2.186.0...v2.187.0) (2021-12-02)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.226.0 ([493ae68](https://github.com/wmfs/tymly-runner/commit/493ae685b523a98a2c7169450da66422484719ff))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** CircleCI update next gen PostgreSQL image [sc-11442] ([07b1f7a](https://github.com/wmfs/tymly-runner/commit/07b1f7aa591f1cc8162cb6556308e6d042dcd40f))
+
 # [2.186.0](https://github.com/wmfs/tymly-runner/compare/v2.185.0...v2.186.0) (2021-12-01)
 
 
