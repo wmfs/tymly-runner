@@ -1,3 +1,10 @@
+# [2.190.0](https://github.com/wmfs/tymly-runner/compare/v2.189.0...v2.190.0) (2022-01-25)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency config to v3.3.7 ([22d67fb](https://github.com/wmfs/tymly-runner/commit/22d67fbae94c8b33d64183f66a603fbc258d0cae))
+
 # [2.189.0](https://github.com/wmfs/tymly-runner/compare/v2.188.0...v2.189.0) (2022-01-25)
 
 
