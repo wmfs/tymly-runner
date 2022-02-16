@@ -1,3 +1,12 @@
+# [2.192.0](https://github.com/wmfs/tymly-runner/compare/v2.191.0...v2.192.0) (2022-02-16)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly-pg-plugin to v1.267.0 ([5f776f7](https://github.com/wmfs/tymly-runner/commit/5f776f743fd09f0dd7ba598847d0f7742d80a209))
+* **deps-dev:** update dependency chai to v4.3.6 ([e2115ec](https://github.com/wmfs/tymly-runner/commit/e2115ec288534423deec444ea4e2baf12fee458e))
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.235.0 ([a644194](https://github.com/wmfs/tymly-runner/commit/a644194a195c58f1e2fa90a0dcc9ac5852675d51))
+
 # [2.191.0](https://github.com/wmfs/tymly-runner/compare/v2.190.0...v2.191.0) (2022-01-26)
 
 
