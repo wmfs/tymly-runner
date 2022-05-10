@@ -1,3 +1,10 @@
+# [2.197.0](https://github.com/wmfs/tymly-runner/compare/v2.196.0...v2.197.0) (2022-05-10)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/tymly to 1.239.0 ([3260200](https://github.com/wmfs/tymly-runner/commit/3260200bd8c0a79fc3c40949944580fd2b05bb4e))
+
 # [2.196.0](https://github.com/wmfs/tymly-runner/compare/v2.195.0...v2.196.0) (2022-05-10)
 
 
