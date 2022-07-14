@@ -1,3 +1,14 @@
+# [2.199.0](https://github.com/wmfs/tymly-runner/compare/v2.198.0...v2.199.0) (2022-07-14)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly-pg-plugin to v1.269.0 ([c8f4396](https://github.com/wmfs/tymly-runner/commit/c8f4396d0adcd5ebde7eca9e6b46e79b41d9ba21))
+* **deps-dev:** update dependency nodemon to v2.0.18 ([0876eba](https://github.com/wmfs/tymly-runner/commit/0876eba930da1604eda962bb9021ecb40a55276a))
+* **deps-dev:** update dependency nodemon to v2.0.19 ([9ca2943](https://github.com/wmfs/tymly-runner/commit/9ca2943f315be28567511d007d48db5b5c1ba59c))
+* **deps-dev:** update dependency semantic-release to v19.0.3 ([68bc09f](https://github.com/wmfs/tymly-runner/commit/68bc09f1437d8dd4f9567a5ecd3cbb7c7ab0a0bd))
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.240.0 ([4408de7](https://github.com/wmfs/tymly-runner/commit/4408de725a511a3d6f3d90f95e7055563f70f65e))
+
 # [2.198.0](https://github.com/wmfs/tymly-runner/compare/v2.197.0...v2.198.0) (2022-05-13)
 
 
