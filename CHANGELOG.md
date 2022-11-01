@@ -1,3 +1,14 @@
+# [2.200.0](https://github.com/wmfs/tymly-runner/compare/v2.199.0...v2.200.0) (2022-11-01)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency mocha to v10.1.0 ([0a9c076](https://github.com/wmfs/tymly-runner/commit/0a9c0767c91dfe7fa052b97148623259ff16e368))
+* **deps-dev:** update dependency nodemon to v2.0.20 ([6ac8b09](https://github.com/wmfs/tymly-runner/commit/6ac8b097b68f890c6d83ae05b1dd3347c391b928))
+* **deps-dev:** update dependency semantic-release to v19.0.4 ([37f922c](https://github.com/wmfs/tymly-runner/commit/37f922ca9f7471e5f831aac3dfec0373f1508202))
+* **deps-dev:** update dependency semantic-release to v19.0.5 ([2a46b4a](https://github.com/wmfs/tymly-runner/commit/2a46b4a98b4d74fad538db80a525409771deee41))
+* **deps:** update dependency config to v3.3.8 ([a100264](https://github.com/wmfs/tymly-runner/commit/a100264048b630a3a0186f902fd3a7a0c26cdc30))
+
 # [2.199.0](https://github.com/wmfs/tymly-runner/compare/v2.198.0...v2.199.0) (2022-07-14)
 
 
