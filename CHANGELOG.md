@@ -1,3 +1,10 @@
+# [2.202.0](https://github.com/wmfs/tymly-runner/compare/v2.201.0...v2.202.0) (2022-11-02)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.246.0 ([0f5c05e](https://github.com/wmfs/tymly-runner/commit/0f5c05edda7b2a406ff6d3ccc3f834f61e23f7d5))
+
 # [2.201.0](https://github.com/wmfs/tymly-runner/compare/v2.200.0...v2.201.0) (2022-11-01)
 
 
