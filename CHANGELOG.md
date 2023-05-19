@@ -1,3 +1,39 @@
+# [2.204.0](https://github.com/wmfs/tymly-runner/compare/v2.203.0...v2.204.0) (2023-05-19)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.2 ([049f944](https://github.com/wmfs/tymly-runner/commit/049f944a4b15f56573ad1590ade255f471b7735f))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.3 ([6e28885](https://github.com/wmfs/tymly-runner/commit/6e28885f1b71895ed3c3de6fb8761f0e17ea97df))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly-pg-plugin to v1.276.0 ([1656272](https://github.com/wmfs/tymly-runner/commit/165627281591d8acfd00dce01fa993a02bc24f6c))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly-pg-plugin to v1.277.0 ([547c1ad](https://github.com/wmfs/tymly-runner/commit/547c1ad0dd869873750158c9242a830054058cba))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly-pg-plugin to v1.278.0 ([12f8075](https://github.com/wmfs/tymly-runner/commit/12f8075e32de6b60c17d9456a8f616042ee65929))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly-pg-plugin to v1.282.0 ([0c02da2](https://github.com/wmfs/tymly-runner/commit/0c02da2ca03c2bdf8925635dd91bde8c53d5502b))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly-pg-plugin to v1.283.0 ([86ac0ac](https://github.com/wmfs/tymly-runner/commit/86ac0ac15c4220f937585161b64ed40e6dc80653))
+* **deps-dev:** update dependency chai to v4.3.7 ([395b739](https://github.com/wmfs/tymly-runner/commit/395b739cba63428def5425eb9782f1a4ee239d23))
+* **deps-dev:** update dependency mocha to v10.2.0 ([af2bb12](https://github.com/wmfs/tymly-runner/commit/af2bb12fc65438cabbc731e33e4307ee73574405))
+* **deps-dev:** update dependency nodemon to v2.0.21 ([95a4828](https://github.com/wmfs/tymly-runner/commit/95a48282e5a0092afacca7a82c25edb0d822a734))
+* **deps-dev:** update dependency nodemon to v2.0.22 ([bc9c4d6](https://github.com/wmfs/tymly-runner/commit/bc9c4d60dd91e32e36477cfa0c03bf62d2dc17ca))
+* **deps-dev:** update dependency semantic-release to v20 ([28686f6](https://github.com/wmfs/tymly-runner/commit/28686f6417b3244e190be598e818af0bc1f0f242))
+* **deps-dev:** update dependency semantic-release to v20.0.1 ([6b3f3fc](https://github.com/wmfs/tymly-runner/commit/6b3f3fce885537008238e2f3c98d5f18e4b45dd5))
+* **deps-dev:** update dependency semantic-release to v20.0.2 ([dfc85ee](https://github.com/wmfs/tymly-runner/commit/dfc85ee8e24935578dff0f1e4ef5545cabb38ccb))
+* **deps-dev:** update dependency semantic-release to v20.0.3 ([571b309](https://github.com/wmfs/tymly-runner/commit/571b309dab03fc37f9a7d1697701f6a8fef35974))
+* **deps-dev:** update dependency semantic-release to v20.0.4 ([827a30a](https://github.com/wmfs/tymly-runner/commit/827a30aed76ddcc43bddbcd06788b28adf53877b))
+* **deps-dev:** update dependency semantic-release to v20.1.0 ([5fc7a5a](https://github.com/wmfs/tymly-runner/commit/5fc7a5a8bb8688359a7f752310f2291d1f58d6e2))
+* **deps-dev:** update dependency semantic-release to v20.1.1 ([d2b19a0](https://github.com/wmfs/tymly-runner/commit/d2b19a0727a8aac49df17b82738dec1775a26d5d))
+* **deps-dev:** update dependency semantic-release to v20.1.3 ([1700fb8](https://github.com/wmfs/tymly-runner/commit/1700fb869135a408fe581ea1210aba094604111d))
+* **deps-dev:** update dependency semantic-release to v21 ([8c5a5db](https://github.com/wmfs/tymly-runner/commit/8c5a5dbfe065602b5980c1f46e1286a5f92c8356))
+* **deps-dev:** update dependency semantic-release to v21.0.1 ([fadce23](https://github.com/wmfs/tymly-runner/commit/fadce23fe97b1092cf75e2b6a6f9ef5fdff23105))
+* **deps-dev:** update dependency semantic-release to v21.0.2 ([72f51aa](https://github.com/wmfs/tymly-runner/commit/72f51aa73822c4ca3beb72a5d07917e867a59339))
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.256.0 ([176cd98](https://github.com/wmfs/tymly-runner/commit/176cd98a464901023fa1406af7894f43de3ea251))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** CircleCI update PostgreSQL image to 15 0 [sc-18659] ([e8f6e9e](https://github.com/wmfs/tymly-runner/commit/e8f6e9ed051a02fa9a8b0939304d75ce1361d995))
+* **circle:** update postgres to 15.1-postgis ([4ef32d5](https://github.com/wmfs/tymly-runner/commit/4ef32d53b4fbfe7e67db995f0e8b88bb3dfbc028))
+* **circle:** update postgres to 15.2-postgis [sc-19693] ([7fe106d](https://github.com/wmfs/tymly-runner/commit/7fe106d92c88b5282b10f7daec71f3a633370e77))
+
 # [2.203.0](https://github.com/wmfs/tymly-runner/compare/v2.202.0...v2.203.0) (2022-11-03)
 
 
