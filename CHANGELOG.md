@@ -1,3 +1,19 @@
+# [2.205.0](https://github.com/wmfs/tymly-runner/compare/v2.204.0...v2.205.0) (2023-07-26)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly-pg-plugin to v1.284.0 ([b0057cf](https://github.com/wmfs/tymly-runner/commit/b0057cf2744c5ebf2a82fa8b0fbdda159aa3f1ab))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly-pg-plugin to v1.286.0 ([13dfcf0](https://github.com/wmfs/tymly-runner/commit/13dfcf037442110dc3cc1cab73311208568e68c3))
+* **deps-dev:** update dependency nodemon to v3 ([ab8731b](https://github.com/wmfs/tymly-runner/commit/ab8731b0eec866a36168a265e076438886e0ab49))
+* **deps-dev:** update dependency nodemon to v3.0.1 ([a783608](https://github.com/wmfs/tymly-runner/commit/a78360866357bd833c5eeae009dcf445ef0352fb))
+* **deps-dev:** update dependency semantic-release to v21.0.3 ([8785e96](https://github.com/wmfs/tymly-runner/commit/8785e965f7c946bd5207d2d6ac2af53dcc462ad6))
+* **deps-dev:** update dependency semantic-release to v21.0.5 ([60381b7](https://github.com/wmfs/tymly-runner/commit/60381b790397b9b58e1da3fa1982ab7585fd79c6))
+* **deps-dev:** update dependency semantic-release to v21.0.6 ([e1b983e](https://github.com/wmfs/tymly-runner/commit/e1b983e29a7a527d1ba04651cc6d493210b158fc))
+* **deps-dev:** update dependency semantic-release to v21.0.7 ([d0b8efd](https://github.com/wmfs/tymly-runner/commit/d0b8efdee6e9b1c7b62cd08db74282fad6f336e7))
+* **deps-dev:** update dependency standard to v17.1.0 ([336d87c](https://github.com/wmfs/tymly-runner/commit/336d87c4b0511bdb1c7f0b64176ec77081bfd9ed))
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.258.0 ([d2db240](https://github.com/wmfs/tymly-runner/commit/d2db2404921a75f32806a0c5fb285a950df124bc))
+
 # [2.204.0](https://github.com/wmfs/tymly-runner/compare/v2.203.0...v2.204.0) (2023-05-19)
 
 
