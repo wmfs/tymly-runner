@@ -1,3 +1,5 @@
+# [2.222.0](https://github.com/wmfs/tymly-runner/compare/v2.221.0...v2.222.0) (2024-11-13)
+
 # [2.221.0](https://github.com/wmfs/tymly-runner/compare/v2.220.0...v2.221.0) (2024-11-13)
 
 # [2.220.0](https://github.com/wmfs/tymly-runner/compare/v2.219.0...v2.220.0) (2024-11-12)
