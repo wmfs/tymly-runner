@@ -1,3 +1,9 @@
+## [2.228.0](https://github.com/wmfs/tymly-runner/compare/v2.227.0...v2.228.0) (2025-01-07)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency @wmfs/tymly to v1.289.0 ([#913](https://github.com/wmfs/tymly-runner/issues/913)) ([dacd308](https://github.com/wmfs/tymly-runner/commit/dacd308fe8f7347aac4fd070a585372e74074dcb))
+
 ## [2.227.0](https://github.com/wmfs/tymly-runner/compare/v2.226.0...v2.227.0) (2025-01-07)
 
 ### Build system dependencies :hammer:
