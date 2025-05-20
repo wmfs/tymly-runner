@@ -1,3 +1,13 @@
+## [2.247.0](https://github.com/wmfs/tymly-runner/compare/v2.246.0...v2.247.0) (2025-05-20)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9 ([#953](https://github.com/wmfs/tymly-runner/issues/953)) ([1d4739e](https://github.com/wmfs/tymly-runner/commit/1d4739e70b65dbb9bd1e4f82ddb1fe054bbf8fe0))
+* **deps-dev:** update dependency mocha to v11.3.0 ([#949](https://github.com/wmfs/tymly-runner/issues/949)) ([717a5ef](https://github.com/wmfs/tymly-runner/commit/717a5ef6f451b473b3dfa6e88ef634396be2de25))
+* **deps-dev:** update dependency mocha to v11.4.0 ([#952](https://github.com/wmfs/tymly-runner/issues/952)) ([c5a9f9f](https://github.com/wmfs/tymly-runner/commit/c5a9f9ff853c4a93d63339e4cb18254ced2b6b60))
+* **deps-dev:** update dependency semantic-release to v24.2.4 ([#950](https://github.com/wmfs/tymly-runner/issues/950)) ([b39a203](https://github.com/wmfs/tymly-runner/commit/b39a203fa2fcad6e63ccc015ef42a4f6134d055c))
+* **deps:** update dependency @wmfs/tymly to v1.311.0 ([#951](https://github.com/wmfs/tymly-runner/issues/951)) ([ea93f20](https://github.com/wmfs/tymly-runner/commit/ea93f203862db6b3599e5b365a23447afe419c53))
+
 ## [2.246.0](https://github.com/wmfs/tymly-runner/compare/v2.245.0...v2.246.0) (2025-05-15)
 
 ### Build system dependencies :hammer:
