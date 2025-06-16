@@ -1,3 +1,14 @@
+## [2.248.0](https://github.com/wmfs/tymly-runner/compare/v2.247.0...v2.248.0) (2025-06-16)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @wmfs/tymly-pg-plugin to v1.333.0 ([#956](https://github.com/wmfs/tymly-runner/issues/956)) ([cc02cf8](https://github.com/wmfs/tymly-runner/commit/cc02cf808d0acdac5f24cb53eb4b0c7ec4441cb0))
+* **deps-dev:** update dependency @wmfs/tymly-pg-plugin to v1.334.0 ([#957](https://github.com/wmfs/tymly-runner/issues/957)) ([866f4d9](https://github.com/wmfs/tymly-runner/commit/866f4d9f7c683762189d33458e564410f0aaeef6))
+* **deps-dev:** update dependency mocha to v11.5.0 ([#955](https://github.com/wmfs/tymly-runner/issues/955)) ([30e9edc](https://github.com/wmfs/tymly-runner/commit/30e9edc38861297615af9c61b7fdcd72d27b7bbd))
+* **deps-dev:** update dependency mocha to v11.6.0 ([#958](https://github.com/wmfs/tymly-runner/issues/958)) ([6dc382f](https://github.com/wmfs/tymly-runner/commit/6dc382f9687a24e0ea54ac9cec72a46cede6bd42))
+* **deps-dev:** update dependency semantic-release to v24.2.5 ([#954](https://github.com/wmfs/tymly-runner/issues/954)) ([c1c24dc](https://github.com/wmfs/tymly-runner/commit/c1c24dc7e5a796ac6c2da69ae50b1e61f04faabc))
+* **deps:** update dependency @wmfs/tymly to v1.312.0 ([#959](https://github.com/wmfs/tymly-runner/issues/959)) ([fa8e4d3](https://github.com/wmfs/tymly-runner/commit/fa8e4d323d5a03c69a634b06bbfc1ea2d4b8eaf1))
+
 ## [2.247.0](https://github.com/wmfs/tymly-runner/compare/v2.246.0...v2.247.0) (2025-05-20)
 
 ### Build system dependencies :hammer:
