@@ -38,7 +38,7 @@
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/release-notes-generator": "14.0.3",
     "@semantic-release/git": "10.0.1",
-    "@wmfs/tymly-pg-plugin": "1.334.0"
+    "@wmfs/tymly-pg-plugin": "1.335.0"
   },
   "scripts": {
     "start": "node ./lib/index.js",
