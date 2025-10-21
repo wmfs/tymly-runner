@@ -1,3 +1,19 @@
+## [2.253.0](https://github.com/wmfs/tymly-runner/compare/v2.252.0...v2.253.0) (2025-10-21)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @semantic-release/release-notes-generator to v14.1.0 ([#978](https://github.com/wmfs/tymly-runner/issues/978)) ([726bf5e](https://github.com/wmfs/tymly-runner/commit/726bf5e51081a2903f9e6c282614d531518915d3))
+* **deps-dev:** update dependency chai to v6 ([#976](https://github.com/wmfs/tymly-runner/issues/976)) ([586aeb9](https://github.com/wmfs/tymly-runner/commit/586aeb94d33454a482c4c3b77c7b3440f67c8d7c))
+* **deps-dev:** update dependency chai to v6.2.0 ([#981](https://github.com/wmfs/tymly-runner/issues/981)) ([8e1a29a](https://github.com/wmfs/tymly-runner/commit/8e1a29a5ebf95893c3373b64ace221d6b3b40f5d))
+* **deps-dev:** update dependency mocha to v11.7.2 ([#977](https://github.com/wmfs/tymly-runner/issues/977)) ([12a934b](https://github.com/wmfs/tymly-runner/commit/12a934bdd7b1c632fa0e9887cd176822c3ee934c))
+* **deps-dev:** update dependency mocha to v11.7.3 ([#982](https://github.com/wmfs/tymly-runner/issues/982)) ([2016e41](https://github.com/wmfs/tymly-runner/commit/2016e41d8affa644c4abb0dd6d8a390b0dbb6218))
+* **deps-dev:** update dependency mocha to v11.7.4 ([#983](https://github.com/wmfs/tymly-runner/issues/983)) ([83d8bf9](https://github.com/wmfs/tymly-runner/commit/83d8bf9d859c1ffd2563bc2681cd1b45cf805f37))
+* **deps-dev:** update dependency semantic-release to v24.2.8 ([#979](https://github.com/wmfs/tymly-runner/issues/979)) ([756859e](https://github.com/wmfs/tymly-runner/commit/756859ed81d7ade9bffd22fd2a3786566db6aef9))
+* **deps-dev:** update dependency semantic-release to v24.2.9 ([#980](https://github.com/wmfs/tymly-runner/issues/980)) ([9093727](https://github.com/wmfs/tymly-runner/commit/909372771f4546089f5bd136cdb735630d934dda))
+* **deps-dev:** update dependency semantic-release to v25 ([#984](https://github.com/wmfs/tymly-runner/issues/984)) ([bb62906](https://github.com/wmfs/tymly-runner/commit/bb62906bc5fdb7338c61d245ce974a8eee0165fd))
+* **deps-dev:** update dependency semantic-release to v25.0.1 ([#985](https://github.com/wmfs/tymly-runner/issues/985)) ([7ca5a98](https://github.com/wmfs/tymly-runner/commit/7ca5a982587ebd76264970327b13d50f575a588c))
+* **deps:** revert chai to non-esm ([3d7b4ff](https://github.com/wmfs/tymly-runner/commit/3d7b4ff5681c3e95777087df2a0b8674c900df3f))
+
 ## [2.252.0](https://github.com/wmfs/tymly-runner/compare/v2.251.0...v2.252.0) (2025-07-16)
 
 ### Build system dependencies :hammer:
