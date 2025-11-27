@@ -1,3 +1,10 @@
+## [2.255.0](https://github.com/wmfs/tymly-runner/compare/v2.254.0...v2.255.0) (2025-11-27)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @wmfs/tymly-pg-plugin to v1.348.0 ([#992](https://github.com/wmfs/tymly-runner/issues/992)) ([671c8cd](https://github.com/wmfs/tymly-runner/commit/671c8cd50ad2f6ee5e70bfc9ec10473cc3c2b2a0))
+* **deps:** update dependency @wmfs/tymly to v1.317.0 ([#993](https://github.com/wmfs/tymly-runner/issues/993)) ([b3a20e9](https://github.com/wmfs/tymly-runner/commit/b3a20e9d29244a18c6eb9d2c6049dde24e31f48f))
+
 ## [2.254.0](https://github.com/wmfs/tymly-runner/compare/v2.253.0...v2.254.0) (2025-11-25)
 
 ### Build system dependencies :hammer:
