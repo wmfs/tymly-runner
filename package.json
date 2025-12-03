@@ -21,7 +21,7 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "config": "4.0.1",
+    "config": "4.1.1",
     "lodash": "4.17.21",
     "@wmfs/tymly": "1.317.0"
   },
