@@ -1,3 +1,5 @@
+## [2.255.1](https://github.com/wmfs/tymly-runner/compare/v2.255.0...v2.255.1) (2026-08-13)
+
 ## [2.255.0](https://github.com/wmfs/tymly-runner/compare/v2.254.0...v2.255.0) (2025-11-27)
 
 ### Build system dependencies :hammer:
