@@ -22,7 +22,7 @@
   "main": "./lib/index.js",
   "dependencies": {
     "config": "4.0.1",
-    "lodash": "4.17.21",
+    "lodash": "4.18.1",
     "@wmfs/tymly": "1.317.0"
   },
   "devDependencies": {
