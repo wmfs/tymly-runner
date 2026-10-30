@@ -1,3 +1,22 @@
+## [2.256.0](https://github.com/wmfs/tymly-runner/compare/v2.255.1...v2.256.0) (2026-10-30)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** fix conventionalcommit versions [sc-34125] ([42ae0ec](https://github.com/wmfs/tymly-runner/commit/42ae0ec47ea5b44c2e879601475194515b78d952))
+* **deps-dev:** update dependency @wmfs/tymly-pg-plugin to v1.348.1 ([#1021](https://github.com/wmfs/tymly-runner/issues/1021)) ([4dda0b4](https://github.com/wmfs/tymly-runner/commit/4dda0b421c663f530e096ce4d184e80e6971ed86))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.0 ([#1023](https://github.com/wmfs/tymly-runner/issues/1023)) ([706779c](https://github.com/wmfs/tymly-runner/commit/706779c241304c2e39eb4f1e4dc02336227e353d))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.1 ([#1028](https://github.com/wmfs/tymly-runner/issues/1028)) ([604fee7](https://github.com/wmfs/tymly-runner/commit/604fee72523fc74891977695ebe816712e8b18bf))
+* **deps-dev:** update dependency mocha to v12 ([#1024](https://github.com/wmfs/tymly-runner/issues/1024)) ([d6531ce](https://github.com/wmfs/tymly-runner/commit/d6531ce05af708ccbbc715d552c591bdbcd763e6))
+* **deps-dev:** update dependency mocha to v12.0.1 ([#1025](https://github.com/wmfs/tymly-runner/issues/1025)) ([7a43a09](https://github.com/wmfs/tymly-runner/commit/7a43a092a84df3f8cf2933cfa19da9ad9aaf1586))
+* **deps-dev:** update dependency mocha to v12.0.2 ([#1026](https://github.com/wmfs/tymly-runner/issues/1026)) ([6a586f1](https://github.com/wmfs/tymly-runner/commit/6a586f18b077be4ec019c03374b2e5431ac05cb9))
+* **deps-dev:** update dependency mocha to v12.0.3 ([#1027](https://github.com/wmfs/tymly-runner/issues/1027)) ([8a4bf12](https://github.com/wmfs/tymly-runner/commit/8a4bf120d89f3d52de679f122ec9b4282d3686bc))
+* **deps:** update dependency lodash to v4.18.1 [security] ([#996](https://github.com/wmfs/tymly-runner/issues/996)) ([4c7ef5f](https://github.com/wmfs/tymly-runner/commit/4c7ef5fddd2b7382ec4cdf069c14a64c151d6b9d))
+
+### CICD Configuration Changes :construction_worker:
+
+* use github-app-token orb for release token [sc-34101] ([#1031](https://github.com/wmfs/tymly-runner/issues/1031)) ([e51dc3f](https://github.com/wmfs/tymly-runner/commit/e51dc3f47efa240057dce4a574adf8549e6d299a))
+* use shared renovate preset [sc-34117] ([#1029](https://github.com/wmfs/tymly-runner/issues/1029)) ([63fc8d4](https://github.com/wmfs/tymly-runner/commit/63fc8d42b24828a04969d08b1acd3b5780b832bd))
+
 ## [2.255.1](https://github.com/wmfs/tymly-runner/compare/v2.255.0...v2.255.1) (2026-08-13)
 
 ## [2.255.0](https://github.com/wmfs/tymly-runner/compare/v2.254.0...v2.255.0) (2025-11-27)
