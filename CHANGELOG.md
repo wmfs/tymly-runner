@@ -1,3 +1,9 @@
+## [2.264.0](https://github.com/wmfs/tymly-runner/compare/v2.263.0...v2.264.0) (2026-11-20)
+
+### Build system dependencies :hammer:
+
+* **deps:** update [@wmfs](https://github.com/wmfs) packages ([#1037](https://github.com/wmfs/tymly-runner/issues/1037)) ([81f618c](https://github.com/wmfs/tymly-runner/commit/81f618cd790132a23814d9b38e28b026f2cc0314))
+
 ## [2.263.0](https://github.com/wmfs/tymly-runner/compare/v2.262.0...v2.263.0) (2026-11-18)
 
 ### Build system dependencies :hammer:
